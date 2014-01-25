@@ -5,8 +5,8 @@ As stated in [Wine Bug](http://bugs.winehq.org/show_bug.cgi?id=34166), there is 
 
 I patched the patch to work with 1.7.11 and you can download it directly from this repository. There is also a prebuilt engine for Wineskin.
 
-To use the prebuilt engine, please copy the file to
+To use the prebuilt engine, please copy [this file](https://github.com/lnxbil/WineskinEngines/raw/master/WS9Wine-1.7.11-revert-flicker.tar.7z) to
 
     $HOME/Library/Application Support/Wineskin/Engines
 
-The Engine was built on a freshly installed *Mac OS Snow Leopard* with included XCode.
+The Engine was built on a freshly installed *Mac OS Snow Leopard* with included XCode. The log is also [available](https://github.com/lnxbil/WineskinEngines/raw/master/WS9Wine-1.7.11-revert-flicker.build.log.rtf).

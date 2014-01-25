@@ -10,3 +10,13 @@ To use the prebuilt engine, please copy [this file](https://github.com/lnxbil/Wi
     $HOME/Library/Application Support/Wineskin/Engines
 
 The Engine was built on a freshly installed *Mac OS Snow Leopard* with included XCode. The log is also [available](https://github.com/lnxbil/WineskinEngines/raw/master/WS9Wine-1.7.11-revert-flicker.build.log.rtf).
+
+## Easy installation
+
+Copy and paste the following line into a terminal window, then hit enter.
+
+```sh
+curl "https://github.com/lnxbil/WineskinEngines/raw/master/WS9Wine-1.7.11-revert-flicker.tar.7z" > "$HOME/Library/Application Support/Wineskin/Engines/WS9Wine1.7.11NoFlicker.tar.7z"
+```
+
+This engine will then show up in the list of engines in Wineskin Winery as `WS9Wine1.7.11NoFlicker`.

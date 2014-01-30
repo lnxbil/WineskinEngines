@@ -7,7 +7,7 @@ Here you have a built a couple of unoffical [Wineskin](http://wineskin.urgesoftw
 
 I patched the patch from Linux Unnebäck to work with 1.7.11 and you can download it directly from this repository.
 
-Benchmark results using all three engines are available [here](https://github.com/lnxbil/WineskinEngines/Benchmark-1.7.11).
+Benchmark results using all three engines are available [here](https://github.com/lnxbil/WineskinEngines/tree/master/Benchmark-1.7.11).
 
 The engines were built on a freshly installed *Mac OS Snow Leopard* with included XCode. I used a different format for naming the engines (**-** after wine version) to make it clear that they're not officially approved.
 

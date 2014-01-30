@@ -32,11 +32,11 @@ curl -L "https://raw2.github.com/lnxbil/WineskinEngines/master/WS9Wine1.7.11-nof
    This engine will then show up in the list of engines in Wineskin Winery as `WS9Wine1.7.11-noflicker-unnebäck`.
 
 ## Activate inside Wineskin
-To active the new engine, you have to use the _Native Driver_ in _Screen Options_. Please check this checkbox:
+To activate the new engine, you have to use the _Native Driver_ under _Screen Options_. Please check if the following is enabled:
 
     X   Use Mac Driver instead of X11
     
-As it is shown on this screenshot:
+as it is shown on this screenshot:
 
 ![Screenshot](https://github.com/lnxbil/WineskinEngines/raw/master/screen_options.png)
 

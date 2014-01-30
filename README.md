@@ -38,7 +38,7 @@ To active the new engine, you have to use the _Native Driver_ in _Screen Options
     
 As it is shown on this screenshot:
 
-![Screenshot](https://github.com/lnxbil/WineskinEngines/raw/master/screen_options)
+![Screenshot](https://github.com/lnxbil/WineskinEngines/raw/master/screen_options.png)
 
 ## Patches
 The patches for the corresponding versions can also be downloaded here:

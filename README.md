@@ -26,13 +26,13 @@ curl -L "https://raw2.github.com/lnxbil/WineskinEngines/master/WS9Wine1.7.11-nof
 *  Unnebäck engine (Disabled `updateColorSpace`):
 
    ```sh
-curl -L "https://raw2.github.com/lnxbil/WineskinEngines/master/WS9Wine1.7.11-noflicker-unnebäck.tar.7z" > "$HOME/Library/Application Support/Wineskin/Engines/WS9Wine1.7.11-noflicker-unnebäck.tar.7z"
+curl -L "https://raw2.github.com/lnxbil/WineskinEngines/master/WS9Wine1.7.11-noflicker-unneback.tar.7z" > "$HOME/Library/Application Support/Wineskin/Engines/WS9Wine1.7.11-noflicker-unnebäck.tar.7z"
    ```
 
-   This engine will then show up in the list of engines in Wineskin Winery as `WS9Wine1.7.11-noflicker-unnebäck.tar.7z`.
+   This engine will then show up in the list of engines in Wineskin Winery as `WS9Wine1.7.11-noflicker-unnebäck`.
    
 ## Patches
 The patches for the corresponding versions can also be downloaded here:
 
 * [WS9Wine1.7.11-noflicker-verbeet.diff](https://raw2.github.com/lnxbil/WineskinEngines/master/WS9Wine1.7.11-noflicker-verbeet.diff)
-* [WS9Wine1.7.11-noflicker-unnebäck.diff](https://raw2.github.com/lnxbil/WineskinEngines/master/WS9Wine1.7.11-noflicker-unnebäck.diff)
+* [WS9Wine1.7.11-noflicker-unneback.diff](https://raw2.github.com/lnxbil/WineskinEngines/master/WS9Wine1.7.11-noflicker-unneback.diff)

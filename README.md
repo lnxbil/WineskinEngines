@@ -1,5 +1,5 @@
 # No-Flickering Wineskin Engines
-Here you have a built a couple of unoffical [Wineskin](http://wineskin.urgesoftware.com/tiki-index.php) engines for [Wine Bug #34166](http://bugs.winehq.org/show_bug.cgi?id=34166):
+Here you have a couple of unoffical [Wineskin](http://wineskin.urgesoftware.com/tiki-index.php) engines for [Wine Bug #34166](http://bugs.winehq.org/show_bug.cgi?id=34166):
 
 * ```WS9Wine1.7.11``` - Vanilla Wine Version (**has** flickering bug, only for reference)
 * ```WS9Wine1.7.11-noflicker-unnebäck``` - [Patch by Linus Unnebäck for 1.7.4](http://bugs.winehq.org/attachment.cgi?id=46394&action=edit)

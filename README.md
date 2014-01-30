@@ -13,7 +13,7 @@ The engines were built on a freshly installed *Mac OS Snow Leopard* with include
 
 ## Easy installation
 
-Copy and paste the following line into a terminal window, then hit enter.
+Copy and paste the following line into a terminal window, then hit enter (please see also next section to activate it).
 
 *  Verbeet engine (Fixing `Double Buffering Issue`):
 
@@ -30,7 +30,16 @@ curl -L "https://raw2.github.com/lnxbil/WineskinEngines/master/WS9Wine1.7.11-nof
    ```
 
    This engine will then show up in the list of engines in Wineskin Winery as `WS9Wine1.7.11-noflicker-unnebäck`.
-   
+
+## Activate inside Wineskin
+To active the new engine, you have to use the _Native Driver_ in _Screen Options_. Please check this checkbox:
+
+    X   Use Mac Driver instead of X11
+    
+As it is shown on this screenshot:
+
+![Screenshot](https://github.com/lnxbil/WineskinEngines/raw/master/screen_options)
+
 ## Patches
 The patches for the corresponding versions can also be downloaded here:
 
